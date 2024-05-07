@@ -1,4 +1,4 @@
-h1 {
-    color: blue;
-    font-size: 40px;
+.post-item .title {
+    color: red;
+    font-size: 28px;
 }
